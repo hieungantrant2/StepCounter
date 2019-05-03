@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=set Pin=U*1-13
+Removed Pin From Net: NetName=cs Pin=U*1-14
+Added Pin To Net: NetName=cs Pin=U*1-26
+Added Pin To Net: NetName=set Pin=U*1-27
+Added Room: Name=StepCounter_sensor
