@@ -1,0 +1,138 @@
+Added Component: Designator=BT?(PIN3V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "PIN 3V"; VariantName = "[No Variations]"
+Added Component: Designator=BT?(PIN3V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "PIN 3V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CP1/2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOT223-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Component: Designator=P?(JP2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=program?(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=S*(CP1/2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW?(SW4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SWDPDT_1.5x1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creat by"; Value = "VanDungEvn@Gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=U*(msp430g2553tsstop)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3v3 Pin=C?-1
+Added Pin To Net: NetName=3v3 Pin=C?-1
+Added Pin To Net: NetName=3v3 Pin=C?-1
+Added Pin To Net: NetName=3v3 Pin=IC?-2
+Added Pin To Net: NetName=3v3 Pin=IC?-4
+Added Pin To Net: NetName=3v3 Pin=R?-1
+Added Pin To Net: NetName=3v3 Pin=RF*-6
+Added Pin To Net: NetName=3v3 Pin=S*-2
+Added Net: Name=3v3
+Added Pin To Net: NetName=ADC Pin=C?-2
+Added Pin To Net: NetName=ADC Pin=C?-2
+Added Pin To Net: NetName=ADC Pin=R?-2
+Added Pin To Net: NetName=ADC Pin=S*-1
+Added Pin To Net: NetName=ADC Pin=U*-2
+Added Net: Name=ADC
+Added Pin To Net: NetName=cs Pin=RF*-2
+Added Pin To Net: NetName=cs Pin=U*-8
+Added Net: Name=cs
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=program?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=RF*-1
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=U*-28
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=SW?-1
+Added Net: Name=NetBT?_1
+Added Pin To Net: NetName=NetBT?_2 Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_2 Pin=BT?-2
+Added Net: Name=NetBT?_2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-3
+Added Pin To Net: NetName=NetC?_2 Pin=SW?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=SW?-3
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=program?-3
+Added Pin To Net: NetName=Reset Pin=R?-2
+Added Pin To Net: NetName=Reset Pin=SW?-1
+Added Pin To Net: NetName=Reset Pin=SW?-3
+Added Pin To Net: NetName=Reset Pin=U*-24
+Added Net: Name=Reset
+Added Pin To Net: NetName=RX Pin=RF*-5
+Added Pin To Net: NetName=RX Pin=U*-4
+Added Net: Name=RX
+Added Pin To Net: NetName=set Pin=RF*-3
+Added Pin To Net: NetName=set Pin=U*-9
+Added Net: Name=set
+Added Pin To Net: NetName=test Pin=program?-2
+Added Pin To Net: NetName=test Pin=U*-25
+Added Net: Name=test
+Added Pin To Net: NetName=TX Pin=RF*-4
+Added Pin To Net: NetName=TX Pin=U*-3
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=U*-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=StepCounter_sensor Member=Component BT? PIN 3V
+Added Member To Class: ClassName=StepCounter_sensor Member=Component BT? PIN 3V
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C? Cap Non-Pol SMD
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C? Cap Pol
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C? Cap Non-Pol
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C? Cap Non-Pol SMD
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C? Cap Non-Pol SMD
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C? Cap Non-Pol SMD
+Added Member To Class: ClassName=StepCounter_sensor Member=Component IC? LM1117
+Added Member To Class: ClassName=StepCounter_sensor Member=Component P? Header 2
+Added Member To Class: ClassName=StepCounter_sensor Member=Component program? Header 3
+Added Member To Class: ClassName=StepCounter_sensor Member=Component R? RESISTOR
+Added Member To Class: ClassName=StepCounter_sensor Member=Component R? RESISTOR SMD
+Added Member To Class: ClassName=StepCounter_sensor Member=Component S* SW520D
+Added Member To Class: ClassName=StepCounter_sensor Member=Component SW? c
+Added Member To Class: ClassName=StepCounter_sensor Member=Component SW? SWDPDT
+Added Member To Class: ClassName=StepCounter_sensor Member=Component U* MSP430G2553

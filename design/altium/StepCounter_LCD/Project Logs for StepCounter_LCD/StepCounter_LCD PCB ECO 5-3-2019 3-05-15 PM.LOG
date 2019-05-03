@@ -1,0 +1,10 @@
+Added Component: Designator=R?(RES-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R?-2
+Change Net Name : Old Net Name=VCC New Net Name=NetC4_1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=StepCounter_LCD Member=Component R? RESISTOR SMD
+Added Member To Class: ClassName=StepCounter_LCD Member=Component SW1 SW
+Added Room: Name=StepCounter_LCD

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=cs Pin=U*1-16
+Removed Pin From Net: NetName=set Pin=U*1-17
+Change Component Footprint: Designator=R2 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Added Pin To Net: NetName=set Pin=U*1-13
+Added Pin To Net: NetName=cs Pin=U*1-14
+Added Room: Name=StepCounter_sensor

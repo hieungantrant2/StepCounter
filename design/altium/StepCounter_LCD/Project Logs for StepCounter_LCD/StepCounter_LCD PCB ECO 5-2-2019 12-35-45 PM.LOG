@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=SW2-1
+Added Net: Name=NetBT1_1
+Added Room: Name=StepCounter_LCD

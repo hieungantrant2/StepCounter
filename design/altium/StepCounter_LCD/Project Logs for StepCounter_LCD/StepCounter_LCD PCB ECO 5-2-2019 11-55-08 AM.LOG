@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=U*1-1
+Added Pin To Net: NetName=NetR*_2 Pin=U*1-2
+Added Net: Name=NetR*_2
+Added Room: Name=StepCounter_LCD
