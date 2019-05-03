@@ -1,4 +1,7 @@
 **.doc/design
 **.PrjPcbStructure/design
 **.SchDocPreview/design
+*.log
+*.SchDoc
+*.PbcDoc
 debug
