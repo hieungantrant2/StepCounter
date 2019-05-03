@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=CS Pin=U*1-5
-Removed Pin From Net: NetName=SET Pin=U*1-6
-Added Pin To Net: NetName=SET Pin=U*1-5
-Added Pin To Net: NetName=CS Pin=U*1-6
-Added Room: Name=StepCounter_LCD

@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=test Pin=program1-2
-Removed Pin From Net: NetName=Reset Pin=program1-3
-Added Pin To Net: NetName=Reset Pin=program1-2
-Added Pin To Net: NetName=test Pin=program1-3
-Added Room: Name=StepCounter_sensor
