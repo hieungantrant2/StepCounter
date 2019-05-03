@@ -1,0 +1,7 @@
+Added Component: Designator=SW1(SWDPDT_1.5x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creat by"; Value = "VanDungEvn@Gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetC1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetP1_1 Pin=SW1-3
+Added Member To Class: ClassName=StepCounter_sensor Member=Component SW1 SWDPDT

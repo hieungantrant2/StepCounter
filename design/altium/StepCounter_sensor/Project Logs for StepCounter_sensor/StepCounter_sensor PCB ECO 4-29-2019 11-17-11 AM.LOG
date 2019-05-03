@@ -1,0 +1,4 @@
+Added Component: Designator=RF*(JP6)
+Add component. Clean all parameters for all variants
+Added Class: Name=StepCounter_sensor
+Added Room: Name=StepCounter_sensor

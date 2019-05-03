@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Footprint: Designator=C5 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C4 Cap Non-Pol SMD
+Added Member To Class: ClassName=StepCounter_sensor Member=Component C5 Cap Non-Pol SMD
+Added Room: Name=StepCounter_sensor

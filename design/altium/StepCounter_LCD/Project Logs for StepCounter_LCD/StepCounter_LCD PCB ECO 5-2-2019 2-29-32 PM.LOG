@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=5v Pin=VR1-1
+Added Member To Class: ClassName=StepCounter_LCD Member=Component LCD LCD16x2
+Added Member To Class: ClassName=StepCounter_LCD Member=Component  Header 2
+Added Member To Class: ClassName=StepCounter_LCD Member=Component U*1 MSP430G2553
+Added Member To Class: ClassName=StepCounter_LCD Member=Component VR1 10K
+Added Room: Name=StepCounter_LCD
