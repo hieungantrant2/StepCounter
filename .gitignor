@@ -1,6 +1,6 @@
-**.doc/design
-**.PrjPcbStructure/design
-**.SchDocPreview/design
+**.doc/design/altium
+**.PrjPcbStructure/design/altium
+**.SchDocPreview/design/altium
 *.log
 *.SchDoc
 *.PbcDoc
