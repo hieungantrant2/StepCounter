@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=P2.3 Pin=LCD-5
+Removed Pin From Net: NetName=GND Pin=LCD-6
+Added Pin To Net: NetName=GND Pin=LCD-5
+Added Pin To Net: NetName=P2.3 Pin=LCD-6
+Added Member To Class: ClassName=StepCounter_LCD Member=Component SW1 SW

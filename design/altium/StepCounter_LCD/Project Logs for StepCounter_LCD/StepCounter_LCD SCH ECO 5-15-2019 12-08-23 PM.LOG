@@ -1,0 +1,5 @@
+Remove Pin=U*1-16 From Net=P2.3
+Change Component Footprint: Designator=R3 Old Footprint=RES-SM-0603 New Footprint=RES-SM-0805
+Add Pin To Net: Pin=LCD-10 Old Net=NetLCD_10 New Net=P2.3
+Change Pin Designator/Name:  Old Designator=LCD-5 Old Name=R/W New Designator =E New Name=6
+Change Pin Designator/Name:  Old Designator=LCD-6 Old Name=E New Designator =R/W New Name=5

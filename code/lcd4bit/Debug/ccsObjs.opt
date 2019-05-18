@@ -1,0 +1,1 @@
+"./main.obj" "./adc.lib/adc.obj" "./lcd.lib/lcd.obj" "./uart.lib/uart.obj" "../lnk_msp430g2553.cmd" -llibc.a 

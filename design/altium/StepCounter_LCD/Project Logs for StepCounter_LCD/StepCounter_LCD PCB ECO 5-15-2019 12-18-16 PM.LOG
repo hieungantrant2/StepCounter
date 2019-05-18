@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=P2.1 Pin=U*1-16
+Added Member To Class: ClassName=StepCounter_LCD Member=Component SW1 SW
