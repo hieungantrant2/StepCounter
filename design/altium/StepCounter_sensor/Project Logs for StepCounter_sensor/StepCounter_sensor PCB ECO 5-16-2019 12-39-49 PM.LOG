@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=set Pin=RF*1-4
+Added Pin To Net: NetName=set Pin=P?-1
+Added Pin To Net: NetName=set1 Pin=P?-2
+Added Pin To Net: NetName=set1 Pin=RF*1-4
+Added Net: Name=set1
